@@ -1,1 +1,2 @@
-# Getting ready for Python 2
+# Getting ready for python 2
+print("Hello world I'm Carl!")
